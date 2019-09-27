@@ -1,12 +1,12 @@
 <template>
     <div>
         <div class="jumbotron">
-            <h1 class="display-4">Hello, world!</h1>
-            <p class="lead">Это простой пример блока с компонентом в стиле jumbotron для привлечения дополнительного внимания к содержанию или информации.</p>
+            <h1 class="display-4">Добро пожаловать!</h1>
+            <p class="lead">Это простая сборка SPA в стеке Symfony + Vue.</p>
             <hr class="my-4">
-            <p>Использются служебные классы для типографики и расстояния содержимого в контейнере большего размера.</p>
+            <p>Symfony + Vue + Vuex + SPA</p>
             <p class="lead">
-                <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+                 <router-link to="/" class="btn btn-primary btn-lg" >Главная</router-link>
             </p>
         </div>
     </div>
