@@ -39,6 +39,11 @@ Encore
      */
     .enableVueLoader()
 
+    /**
+     * Enable SASS
+     */
+    .enableSassLoader()
+
     /*
      * FEATURE CONFIG
      *
