@@ -1,3 +1,6 @@
+var $ = require("jquery/dist/jquery");
+require('bootstrap');
+require('bootstrap/dist/css/bootstrap.css');
 require ('../css/app.css');
 
 import Vue from 'vue';
