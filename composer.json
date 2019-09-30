@@ -1,6 +1,6 @@
 {
     "name": "shtikov/symfony-vue",
-    "description": "Easy to build application on stack: Symfony 4.x + Vue + Vue + Webpack + Sas.",
+    "description": "Easy to build application on stack: Symfony 4.x + Vue + Vue + Webpack + Sass.",
     "type": "project",
     "license": "proprietary",
     "authors": [
