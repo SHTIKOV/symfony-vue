@@ -1,26 +1,31 @@
 # Symfony + Vue + Webpack
+![Symfony + Vue = SPA](https://i.imgur.com/7xfhtlX.png)
 
-Простая сборка прилажения на стеке:  `Symfony 4.x`  +  `Vue` + `Vuex` + `Webpack` + `Sass`.
+Easy to build application on stack: `Symfony 4.x` + `Vue` + `Vue` + `Webpack` + `Sass`.
 
+# How to install
+To install, run the following **composer** command:
+```
+composer require shtikov/symfony-vue
+```
 
 # Build
-
-Для сборки проекта необходимо:
-- Установить **npm** модули
+To build the project you need:
+- Install **npm** modules
 	```
 	npm install
 	```
-- Установить **composer** вендоры
+- Install **composer** vendors
 	```
 	composer install
 	```
-- Собрать все пакеты прилажения
+- Build all application packages
 	```
 	npm run build (production)
 	or
 	npm run dev (develop)
 	```
-- Запустить сервер
+- Start server
 	```
 	bin/console server:run
 	```
