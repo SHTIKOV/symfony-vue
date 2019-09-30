@@ -1,6 +1,5 @@
 {
     "name": "shtikov/symfony-vue",
-    "version": "1.0.0",
     "minimum-stability": "dev",
     "description": "Easy to build application on stack: Symfony 4.x + Vue + Vue + Webpack + Sass.",
     "type": "project",
