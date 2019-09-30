@@ -1,5 +1,5 @@
 # Symfony + Vue + Webpack
-![Symfony + Vue = SPA](https://i.imgur.com/lJHfpy1.png)
+![Symfony + Vue = SPA](https://i.imgur.com/7xfhtlX.png)
 
 Easy to build application on stack: `Symfony 4.x` + `Vue` + `Vue` + `Webpack` + `Sass`.
 
