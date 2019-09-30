@@ -2,6 +2,14 @@
 
 Простая сборка прилажения на стеке:  `Symfony 4.x`  +  `Vue` + `Vuex` + `Webpack` + `Sass`.
 
+# Install
+
+ПРоект можно установить через **composer**:
+
+```
+composer require shtikov/symfony-vue
+```
+
 
 # Build
 
