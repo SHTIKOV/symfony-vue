@@ -28,3 +28,6 @@ To build the project you need:
 	```
 	bin/console server:run
 	```
+	
+# See more
+https://packagist.org/packages/shtikov/symfony-vue
