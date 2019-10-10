@@ -1,4 +1,3 @@
-# Symfony + Vue + Webpack
 ![Symfony + Vue = SPA](https://i.imgur.com/7xfhtlX.png)
 
 Easy to build application on stack: `Symfony 4.x` + `Vue` + `Vue` + `Webpack` + `Sass`.
@@ -29,3 +28,6 @@ To build the project you need:
 	```
 	bin/console server:run
 	```
+	
+# See more
+https://packagist.org/packages/shtikov/symfony-vue
