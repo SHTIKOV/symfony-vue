@@ -2,6 +2,7 @@ var $ = require("jquery/dist/jquery");
 require('bootstrap');
 require('bootstrap/dist/css/bootstrap.css');
 require ('../css/app.css');
+require ('../ts/main.ts');
 
 import Vue from 'vue';
 import Vuex from 'vuex';
