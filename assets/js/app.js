@@ -4,8 +4,11 @@ require('bootstrap/dist/css/bootstrap.css');
 require ('../css/app.css');
 
 import Vue from 'vue';
+import Vuex from 'vuex';
 import Routes from './routes.js';
 import App from './views/App';
+
+Vue.use (Vuex);
 
 const app = new Vue ({
     router: Routes,
